@@ -50,7 +50,7 @@
     "babel-plugin-inline-import": "^3.0.0",
     "babel-plugin-module-resolver": "^4.0.0",
     "detox": "15.1.4",
-    "eslint": "^7.12.0",
+    "eslint": "^7.31.0",
     "eslint-config-prettier": "^6.14.0",
     "eslint-plugin-import": "^2.22.1",
     "husky": "^4.3.0",
